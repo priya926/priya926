@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anubhuti Priya</h1>
-<h3 align="center">Aspiring Software Developer/Web/App Developer| Built & Deployed Real-Time Projects| Purpose-driven Developer</h3>
+<h3 align="center">Aspiring Software Developer| Web & App Developer| Built & Deployed Real-Time Projects| Purpose-driven Developer</h3>
 
 ---
 - 👯 I’m open to collaborate
@@ -25,7 +25,9 @@
 </p>
 
 ---
-
+<p align="center">
+        <img src="https://komarev.com/ghpvc/?username=priya926&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priya926&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=priya926&theme=radical&hide_border=true" />
@@ -54,8 +56,4 @@
 <p>
   <a href="https://linkedin.com/in/priya926"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:anubhutisingh926@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=priya926&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" />
-    </p>
-
 </p>
