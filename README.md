@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anubhuti Priya</h1>
-<h3 align="center">Aspiring Software Developer| Skilled in Django, Firebase,Firestore, Flutter(Basics), PHP, Laravel, HTML/CSS/JS, Sql, Word Press| Built & Deployed Real-Time Projects| Purpose-driven Developer</h3>
+<h3 align="center">Aspiring Software Developer| Built & Deployed Real-Time Projects| Purpose-driven Developer</h3>
 
 ---
 - 👯 I’m open to collaborate
@@ -21,11 +21,10 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priya926&show_icons=true&theme=radical" />
@@ -55,7 +54,8 @@
 <p>
   <a href="https://linkedin.com/in/priya926"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:anubhutisingh926@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <p align="left">
-        ![Profile views](https://komarev.com/ghpvc/?username=priya926&label=Profile%20views&color=0e75b6&style=flat)
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=priya926&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" />
     </p>
+
 </p>
