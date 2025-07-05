@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Anubhuti Priya</h1>
-<h3 align="center">Aspiring Software Developer| Web & App Developer| Built & Deployed Real-Time Projects| Purpose-driven Developer</h3>
+<h3 align="center">Aspiring Software Developer|Django & Python Developer| Web & App Developer| Built & Deployed Real-Time Projects| Purpose-driven Developer</h3>
 
 ---
-- 👯 I’m open to collaborate
+- 👯 Feel free to connect with me to discuss opportunities, share ideas, or collaborate on exciting projects!
 
 - 📫 How to reach me: **anubhutisingh926@gmail.com**
 
