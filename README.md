@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anubhuti Priya</h1>
-<h3 align="center">Aspiring Software Developer|Django & Python Developer| Web & App Developer| Built & Deployed Real-Time Projects| Purpose-driven Developer</h3>
+<h3 align="center">Aspiring Software Developer | Django & Python Developer | Web & App Developer | Built & Deployed Real-Time Projects | Purpose-driven Developer</h3>
 
 ---
 - 👯 Feel free to connect with me to discuss opportunities, share ideas, or collaborate on exciting projects!
